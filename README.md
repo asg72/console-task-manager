@@ -1,4 +1,4 @@
-## Description
+## Description 
 - A simple to-do list application in C++ designed to manage tasks efficiently.
 - This project is a beginner-friendly exercise in file handling and object-oriented programming, with two versions of the code: one using classes and another using functions.
 
